@@ -1,8 +1,3 @@
-# llvm gitignore
-build
-
-# Git files to ignore #
-.gitignore
 
 # LaTeX files to ignore #
 *.acn
@@ -46,13 +41,3 @@ logs
 tmp
 gitHeadInfo.gin
 gitLogInfo.tex
-
-# other
-texStyle/*.synctex.gz
-texStyle/*.pdf
-texStyle/*.lgout
-
-# lua file to ignore
-lua/doc
-*.so
-*.o
